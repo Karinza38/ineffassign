@@ -1,4 +1,4 @@
-# ineffassign
+ineffassign
 
 Detect ineffectual assignments in Go code.  An assignment is ineffectual if the variable assigned is not thereafter used.
 
